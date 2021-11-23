@@ -1,4 +1,4 @@
-# Solutions for CS50 AI Course with Python #
+# MISC AI Projects in Python #
 Note: Please first try to solve the projects by your own before you see the solutions. Happy coding!
 
 ### [Project 6b: Questions](https://github.com/ivandrenc/CS50-AI-Harvard/blob/master/questions/questions.py) ###
