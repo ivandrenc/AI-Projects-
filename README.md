@@ -1,5 +1,4 @@
 # MISC AI Projects in Python #
-Note: Please first try to solve the projects by your own before you see the solutions. Happy coding!
 
 ### [Project 6b: Questions](https://github.com/ivandrenc/CS50-AI-Harvard/blob/master/questions/questions.py) ###
 Question answering system making use of tf-idf (short for term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus).
